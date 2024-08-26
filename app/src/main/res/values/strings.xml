@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidJetpackComposeShimmerEffect</string>
+    <string name="test_image">https://raw.githubusercontent.com/alpermelkeli/AndroidJetpackComposeShimmerEffect/master/testImage.jpeg</string>
 </resources>
